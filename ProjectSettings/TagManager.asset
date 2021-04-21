@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Bullet
+  - Walkable
+  - Walls
+  - Enemy
+  - Escape Pod
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Walkable
+    uniqueID: 4137299003
+    locked: 0
+  - name: Bullet
+    uniqueID: 3845649369
+    locked: 0
+  - name: Player
+    uniqueID: 2276361267
+    locked: 0
+  - name: Walls
+    uniqueID: 323122851
+    locked: 0
+  - name: Escape Pod
+    uniqueID: 164294455
+    locked: 0
+  - name: Map
+    uniqueID: 2530592369
+    locked: 0
